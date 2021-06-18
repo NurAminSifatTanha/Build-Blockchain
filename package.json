@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurAminSifatTanha/blockchain_udemy.git"
+  },
+  "author": "sifat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NurAminSifatTanha/blockchain_udemy/issues"
+  },
+  "homepage": "https://github.com/NurAminSifatTanha/blockchain_udemy#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
